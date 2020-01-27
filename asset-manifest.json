@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thaislip/clicky-game.git/static/css/main.1cec9da5.chunk.css",
+    "main.js": "/thaislip/clicky-game.git/static/js/main.e3921d32.chunk.js",
+    "main.js.map": "/thaislip/clicky-game.git/static/js/main.e3921d32.chunk.js.map",
+    "runtime-main.js": "/thaislip/clicky-game.git/static/js/runtime-main.b1e6320b.js",
+    "runtime-main.js.map": "/thaislip/clicky-game.git/static/js/runtime-main.b1e6320b.js.map",
+    "static/js/2.aa138e3e.chunk.js": "/thaislip/clicky-game.git/static/js/2.aa138e3e.chunk.js",
+    "static/js/2.aa138e3e.chunk.js.map": "/thaislip/clicky-game.git/static/js/2.aa138e3e.chunk.js.map",
+    "index.html": "/thaislip/clicky-game.git/index.html",
+    "precache-manifest.997e9a3fa1e08ee25c9b0454063353f4.js": "/thaislip/clicky-game.git/precache-manifest.997e9a3fa1e08ee25c9b0454063353f4.js",
+    "service-worker.js": "/thaislip/clicky-game.git/service-worker.js",
+    "static/css/main.1cec9da5.chunk.css.map": "/thaislip/clicky-game.git/static/css/main.1cec9da5.chunk.css.map",
+    "static/js/2.aa138e3e.chunk.js.LICENSE": "/thaislip/clicky-game.git/static/js/2.aa138e3e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1e6320b.js",
+    "static/js/2.aa138e3e.chunk.js",
+    "static/css/main.1cec9da5.chunk.css",
+    "static/js/main.e3921d32.chunk.js"
+  ]
+}
